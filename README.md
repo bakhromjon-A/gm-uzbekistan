@@ -1,1 +1,1 @@
-# gm-uzbekistan
+# gm-uzbekistan ushbu proekt gm uzbekistan avtozavodini rivojlantirish uchun
